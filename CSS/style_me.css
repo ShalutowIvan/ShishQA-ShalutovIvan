@@ -1,0 +1,71 @@
+body {
+  background-image: url("kart.jpg");
+  
+  background-position: top center;
+  margin: 0;
+  
+  
+
+  }
+  
+  .container {
+        color:darkgreen;
+  }
+
+.mesto{
+align-content: left;
+  padding: 20px;
+  margin: 20px 0;
+
+}
+.fotka{
+    border-radius: 400px;
+  margin-right: 10px;
+}
+img{
+  object-fit: cover;
+  width:300px;
+  height:300px;
+}
+.pravo{
+  text-align: right;
+}
+.centr{
+text-align: center;
+}
+.shrift{
+  font-family: "Tahoma";
+  font-size: 40px;
+    color: white;
+  }
+
+.shrift2{
+  color: white;
+  font-size: 30px;
+
+}
+
+.shrift3{
+  color: white;
+  font-size: 20px;
+
+}
+
+
+.vertical{
+vertical-align: middle;
+}
+
+.cvet{
+background-color:darkslategray;
+}
+
+.header-phone {
+  padding-left: 20px;
+  background-image: url("img/icon-phone-header.svg");
+}
+
+.header-email {
+  padding-left: 35px;
+  background-image: url("img/icon-email-header.svg");
+}
